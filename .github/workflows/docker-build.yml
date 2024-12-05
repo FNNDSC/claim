@@ -22,5 +22,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner | tolower }}/claimm:latest
-            ghcr.io/${{ github.repository_owner | tolower }}/claimm:${{ github.sha }}
+            ghcr.io/fnndsc/claimm:latest
+            ghcr.io/fnndsc/claimm:${{ github.sha }}
