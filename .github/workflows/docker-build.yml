@@ -3,7 +3,7 @@ name: Build and Push Docker Image to GHCR.io
 on:
   push:
     branches:
-      - main # Trigger on commits to the main branch
+      - master # Trigger on commits to the master branch
 
 jobs:
   build:

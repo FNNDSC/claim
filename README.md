@@ -1,6 +1,6 @@
 # Claimm
 
-**Claimm** (**C**ommand **L**ine **AI** for **M**ulti-**M**odels) is a CLI app for interacting with multiple AI models (OpenAI and Claude). It supports context management and a modular design.
+**Claimm** (**C**ommand **L**ine **AI** for **M**ulti-**M**odels) is a CLI app for interacting with multiple AI models (OpenAI and Claude). It supports context management and a modular design. Its purpose is to simplify the activity of sending the same "request" to different LLMs and to easily seed requests with specific prompt directives.
 
 ## Features
 
